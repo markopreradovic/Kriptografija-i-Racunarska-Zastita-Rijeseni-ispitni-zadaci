@@ -1,0 +1,2 @@
+V	240830172942Z		01	unknown	/C=BA/ST=RS/O=Elektrotehnicki fakultet/OU=ETF/CN=Klijent1/emailAddress=k1
+V	240830173009Z		02	unknown	/C=BA/ST=RS/O=Elektrotehnicki fakultet/OU=ETF/CN=Klijent2/emailAddress=k2
