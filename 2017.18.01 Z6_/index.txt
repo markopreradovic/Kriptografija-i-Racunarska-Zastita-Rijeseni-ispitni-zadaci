@@ -1,0 +1,5 @@
+V	340723200434Z		01	unknown	/C=BA/ST=Republika Srpska/L=Banja Luka/O=Elektrotehnicki fakultet/OU=Katedra za racunarstvo i informatiku/CN=Kole/emailAddress=kole@gmail.com
+V	340723200909Z		12	unknown	/C=BA/ST=Republika Srpska/L=Banja Luka/O=Elektrotehnicki fakultet/OU=Katedra za racunarstvo i informatiku/CN=Korisnik 1/emailAddress=k1@gmail.com
+V	340723201700Z		14	unknown	/C=BA/ST=Republika Srpska/L=Banja Luka/O=Elektrotehnicki fakultet/OU=Katedra za racunarstvo i informatiku/CN=Korisnik 2/emailAddress=k2@gmail.xom
+V	250725202334Z		15	unknown	/C=BA/ST=Republika Srpska/L=Banja Luka/O=Elektrotehnicki fakultet/OU=Katedra za racunarstvo i informatiku/CN=Korisnik 3/emailAddress=k3
+V	241023202616Z		16	unknown	/C=BA/ST=Republika Srpska/L=Banja Luka/O=Elektrotehnicki fakultet/OU=Katedra za racunarstvo i informatiku/CN=K3/emailAddress=d
